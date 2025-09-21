@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="8f157c73-3930-496b-a6e2-9ea693b9c983" Name="Nombre del proyecto" Zoom="1.243820224719102" Frequency="20" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" />
+	<Project ProjectId="8f157c73-3930-496b-a6e2-9ea693b9c983" Name="Nombre del proyecto" Zoom="1.243820224719102" Frequency="20" LogicalCircuitId="99b329f8-20a9-4e37-bad4-61f29af3e478" />
 	<CollapsedCategory Name="Restador" />
 	<CollapsedCategory Name="Registros" />
 	<CollapsedCategory Name="Multiplexor" />
@@ -888,7 +888,6 @@
 	<CircuitSymbol CircuitSymbolId="0090b2f5-8fef-4c12-b70a-c2712699810d" CircuitId="5c29ed09-6a42-4822-b8c6-acb40230e384" LogicalCircuitId="b28794b1-cd65-4991-910c-257d05201195" X="26" Y="38" />
 	<CircuitSymbol CircuitSymbolId="7d78c97a-5dc1-4c0d-b7d5-83d2116f0cf2" CircuitId="e9133144-6b40-450d-9dff-d9c80d2942d2" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X="14" Y="8" />
 	<CircuitSymbol CircuitSymbolId="072312ea-2d1a-4f6f-a015-6ef53793dae6" CircuitId="cc58bef6-754a-4204-8e7d-665b92878ad1" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X="61" Y="4" Rotation="Left" />
-	<CircuitSymbol CircuitSymbolId="bbd5d3dd-b8c6-44c2-9651-e2dcd21c8919" CircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" LogicalCircuitId="99b329f8-20a9-4e37-bad4-61f29af3e478" X="44" Y="29" />
 	<CircuitSymbol CircuitSymbolId="1fb2d03e-c856-41cb-8922-d7106e873931" CircuitId="74787cde-6c46-4e37-af7d-bb1031de1c8f" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X="49" Y="8" />
 	<CircuitSymbol CircuitSymbolId="e3b40108-391c-46c0-9eef-83e69321be0d" CircuitId="74787cde-6c46-4e37-af7d-bb1031de1c8f" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X="57" Y="8" />
 	<CircuitSymbol CircuitSymbolId="7ad20744-a749-46ee-bf88-a7199d8cb0be" CircuitId="e50ebc71-0f8f-4a02-b12e-f204829847e6" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X="16" Y="3" />
@@ -3677,6 +3676,7 @@
 	<Wire WireId="7e412c6c-3ab6-41a7-b0f4-3002c991b24e" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X1="42" Y1="13" X2="50" Y2="13" />
 	<Wire WireId="8fa7be97-ffb6-4887-ab9f-5c65c6c10ae2" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X1="31" Y1="13" X2="42" Y2="13" />
 	<Wire WireId="84df11a0-fee7-4468-a00a-52f89e0777f6" LogicalCircuitId="53eb5cc2-b6f9-493d-beae-cba35616e1f5" X1="21" Y1="13" X2="31" Y2="13" />
+	<Wire WireId="1576044a-0295-4b59-a08b-469e4055f1b5" LogicalCircuitId="99b329f8-20a9-4e37-bad4-61f29af3e478" X1="47" Y1="31" X2="44" Y2="31" />
 	<TextNote TextNoteId="28a78784-b1be-47e4-bd0d-338aff4e4d13" LogicalCircuitId="7af2e619-3895-4d72-bfc0-248d407dbef1" X="14" Y="4" Width="3" Height="2" Note="&lt;FlowDocument PagePadding=&quot;5,0,5,0&quot; AllowDrop=&quot;True&quot; NumberSubstitution.CultureSource=&quot;User&quot; xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;&lt;Paragraph TextAlignment=&quot;Center&quot;&gt;&lt;Run FontSize=&quot;18&quot; xml:lang=&quot;es-cr&quot;&gt;Amo&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;" />
 	<TextNote TextNoteId="7a54076e-61e3-482e-81c1-f3ee9b1af6cb" LogicalCircuitId="7af2e619-3895-4d72-bfc0-248d407dbef1" X="21" Y="4" Width="5" Height="2" Note="&lt;FlowDocument PagePadding=&quot;5,0,5,0&quot; AllowDrop=&quot;True&quot; NumberSubstitution.CultureSource=&quot;User&quot; xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;&lt;Paragraph TextAlignment=&quot;Center&quot;&gt;&lt;Run FontSize=&quot;18&quot; xml:lang=&quot;es-cr&quot;&gt;Esclavo&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;" />
 	<TextNote TextNoteId="2655ec24-5a55-421a-bbb0-98017bfd448f" LogicalCircuitId="aee85f62-3336-480c-93f0-62c8cf092d41" X="7" Y="71" Note="&lt;FlowDocument PagePadding=&quot;5,0,5,0&quot; AllowDrop=&quot;True&quot; NumberSubstitution.CultureSource=&quot;User&quot; xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;&lt;Paragraph&gt;&lt;Run xml:lang=&quot;es-mx&quot;&gt;como un tipo menu dependiendo, si estoy en estado movimiento debe moverse horizontal pero si esstpoy estado fijo, otro estado bloque (intentar con logica de secuencial)&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;" />
